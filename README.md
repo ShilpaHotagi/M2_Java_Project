@@ -1,7 +1,9 @@
 # ATM MACHINE 
 
 ## Introduction
-     In the ATM program, the user has to select an option from the options displayed on the screen. The options are related to checking account, saving account, view balance, withdraw funds, deposit funds, transfer funds, and exit.
+We are going to make a simple ATM machine project using java programming ATM stands for Automated Teller Machine, This Project is to make an automated Teller machine with user's Account Number, and Password, bank account, with that users can withdraw, deposit, and view their account balance. It's possible to make a complete functional ATM project.
+
+In the ATM program, the user has to select an option from the options displayed on the screen and The options are related to checking account, saving account, view balance, withdraw funds, deposit funds, transfer funds, and exit.
 
 ## Folder Structure
 
@@ -11,6 +13,5 @@
 |2_Requirements	     |   Documents detailing requirements
 |3_Design            |    Structural and Behavioural UML
 |4_Implementation	 |     All the code is written here
-|5_Output	         |   Documents with test plans and outputs
-|6_Images        	 | All the images and program execution video
-|7_Report            |          Generated Report
+|5_Images 	         |  All the images and program execution outputs
+|6_Report            |          Generated Report
