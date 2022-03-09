@@ -17,6 +17,11 @@
 |LL4|	If created then redirecting to login page |Implemented |
 |LL5|	Choosing type- Savings or Current |Implemented |
 |LL6|	Option Menu- Balance, Withdraw, Deposit, Transfer |Implemented |
-|LL7|	Exiting the page |Implemented |
+|LL7|	Balance Checking	| Implemented |
+|LL8|	DEPOSIT MONEY	|Implemented|
+|LL9|	WITHDRAW MONEY |Implemented |
+|LL10|	TRANSFER MONEY | Implemented|
+|LL11|	UPDATED MONEY	|Implemented|
+|LL12|	Exiting the page |Implemented |
 
  
