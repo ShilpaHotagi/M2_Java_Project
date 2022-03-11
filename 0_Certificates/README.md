@@ -7,7 +7,7 @@ I also learned many other important concepts including class, Objects, Methods, 
 constructor, Enumerataion, Abstraction, detailed about header files,
 and a huge knowledge of memory allocation and exceptional handling concept.
 
-[sololearn-java.pdf](https://github.com/ShilpaHotagi/M2_Java_Project/files/8229616/sololearn-java.pdf)
+![Screenshot (618)](https://user-images.githubusercontent.com/98829965/157815406-148e7e80-370b-40ae-99ab-080fd1a05f50.png)
 
 
 ### (b) Hackerrank Gold badges Screenshot :
