@@ -15,3 +15,7 @@ In the ATM program, the user has to select an option from the options displayed 
 |4_Implementation	 |     All the code is written here
 |5_Images 	         |  All the images and program execution outputs
 |6_Report            |          Generated Report
+
+## About Code
+
+[![CI](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/main.yml/badge.svg)](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/main.yml)
