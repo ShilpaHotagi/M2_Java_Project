@@ -29,21 +29,6 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      - name: Lint
-        uses: gradle/gradle-build-action@v2
-        with:
-          arguments: lint
-      - name: Build & Analyse Gradle Server
-        uses: gradle/gradle-build-action@v2
-        with:
-          arguments: build -x test
-        env:
-          JAVA_HOME: ""
-      - name: Upload lib
-        uses: actions/upload-artifact@v2
-        with:
-          name: lib
-          path: extension/lib
 
   # Although the gradle build can run in all environments, we use the Java
   # lib generated in the previous step for a better real-world test.
