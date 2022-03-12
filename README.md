@@ -17,6 +17,7 @@ In the ATM program, the user has to select an option from the options displayed 
 |6_Report            |          Generated Report
 
 ## About Code
+[![Build & Publish](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/Build%20&%20Publish.yml/badge.svg)](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/Build%20&%20Publish.yml)
 
 ![Code Quality Score](https://api.codiga.io/project/31851/score/svg)
 
