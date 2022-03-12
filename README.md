@@ -24,3 +24,8 @@ In the ATM program, the user has to select an option from the options displayed 
 ![Code Grade](https://api.codiga.io/project/31851/status/svg)
 
 [![CI](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/main.yml/badge.svg)](https://github.com/ShilpaHotagi/M2_Java_Project/actions/workflows/main.yml)
+
+## References :
+
+* [Geeksforgeeks](https://www.geeksforgeeks.org/java/)
+* [Javatpoint](https://www.javatpoint.com/atm-program-java)
