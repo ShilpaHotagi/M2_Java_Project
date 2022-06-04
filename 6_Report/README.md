@@ -109,7 +109,7 @@ An ATM MACHINE is avialble every where in PAN INDIA.Where you can used our atm c
 
 ![Screenshot (606)](https://user-images.githubusercontent.com/98829965/158009511-d81ec018-75f2-4275-aa7a-1b69abf4a198.png)
 
-![Screenshot (607)](https://user-images.githubusercontent.com/98829965/158009541-111e5a42-7393-4821-87c4-49f9c931ee6b.png)
+ 
 
  
 
